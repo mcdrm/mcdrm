@@ -12,19 +12,19 @@
   </div> 
 </div>
 
-<h1>Hi there 👋 I am a seasoned Software Engineer</h1>
-  <div  align="left">
-    <h1>About Me</h1>
-    <p>
-      I am an experienced WebGL and front-end developer building cutting-edge interactive applications and compositors.
-      I specialize in WebGL and have a deep understanding of 3D graphics, rendering pipelines, and performance optimization for immersive user experiences.
-    </p>
-    <p>As an experienced front-end developer, I combine my technical expertise with a keen eye for design to create intuitive and visually striking interfaces that seamlessly blend functionality and aesthetics.</p>
-    <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality.</p>
-  </div>
+<h1>Hi there 👋. I am a seasoned Software Engineer</h1>
+<div align="left">
+  <h2>About Me</h2>
+  <p>
+    I am an experienced WebGL and front-end developer building cutting-edge interactive applications and compositors.
+    I specialize in WebGL and have a deep understanding of 3D graphics, rendering pipelines, and performance optimization for immersive user experiences.
+  </p>
+  <p>As an experienced front-end developer, I combine my technical expertise with a keen eye for design to create intuitive and visually striking interfaces that seamlessly blend functionality and aesthetics.</p>
+  <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality.</p>
+</div>
   
 <h2> Languages and Tools :</h2>
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" color="green" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
