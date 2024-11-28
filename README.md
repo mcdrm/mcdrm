@@ -12,7 +12,6 @@
   </div> 
 </div>
 
-<h1>Hi there 👋. I am a seasoned Software Engineer</h1>
 <div align="left">
   <h2>About Me</h2>
   <p>
@@ -41,6 +40,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/threedsmax/threedsmax-original.svg" title="3DsMax" alt="3DsMax" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
+</div>
+
+<h2>Stats</h2>
+<br>
+<div align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=smart-dev-cloud&hide_border=true&theme=transparent"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smart-dev-cloud&theme=transparent" height="180em" alt="Stats"/>
+  <br>
+  <br>
+  <br>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smart-dev-cloud&theme=transparent&utcOffset=0" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smart-dev-cloud&theme=transparent" height="180em" alt="Commitments"/>
 </div>
 
 
