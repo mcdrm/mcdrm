@@ -24,7 +24,7 @@
   <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality.</p>
 </div>
   
-<h2> Languages and Tools :</h2>
+<h2> Languages and Tools </h2>
 <div align="center">
   <img 
       alt="HTML"
