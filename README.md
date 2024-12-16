@@ -4,14 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=%20WebGL%20|%20Front-end%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;7%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=650&height=45&color=FF9900&vCenter=true&pause=1000&size=22" />
   </div>
   <br />
-  <div id="badges">
-    <a href="https://github.com/mc-dreamy?tab=repositories&sort=stargazers">
-      <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mc-dreamy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
-    <a href="https://github.com/mc-dreamy?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mc-dreamy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-    </a>
-  </div> 
 </div>
 
 <div align="left">
