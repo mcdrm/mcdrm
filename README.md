@@ -18,71 +18,10 @@
   
 <h2> Languages and Tools </h2>
 <div align="center">
-  <img 
-      alt="HTML"
-      title="HTML" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-  />&nbsp;
-  <img 
-      alt="CSS" 
-      title="CSS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-  />&nbsp;
-  <img 
-      alt="SASS" 
-      title="SASS"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-  />&nbsp;
-  <img 
-      alt="JavaScript" 
-      title="JavaScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-  />&nbsp;
-  <img 
-      alt="TypeScript"
-      title="TypeScript" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-  />&nbsp;
-  <img 
-      alt="Bootstrap"
-      title="Bootstrap" 
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-  />&nbsp;
-  <img
-      alt="Figma" 
-      title="Figma"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-  />&nbsp;
-  <img 
-      alt="Git" 
-      title="Git"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-  />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" color="green"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux "height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threedsmax/threedsmax-original.svg" title="3DsMax" alt="3DsMax"height="30px" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity"height="30px" />&nbsp;
+<!--  <a href="https://skillicons.dev"> -->
+<!-- <img src="https://skillicons.dev/icons?i=js,ts,rust,zig,go,python,react,nextjs,nodejs,expressjs,nestjs,fastapi,htmx,angular,nuxtjs,tailwind,sass,materialui,threejs,supabase,mysql,wordpress,postgres,mongodb,redis,firebase,graphql,git,github,vscode,neovim,vim,figma,kubernetes,docker,jenkins,ansible,terraform,prometheus,aws,gcp,azure,linux,nginx,yarn,npm,pnpm,jest,cypress,babel,prisma,vercel,netlify,webpack,bash,grafana,ps,ai,ae,pr&perline=12" /> -->
+<!--   </a> -->
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,expressjs,nestjs,angular,nuxtjs,tailwind,sass,materialui,threejs,mysql,wordpress,mongodb,firebase,graphql,git,github,vscode,figma,docker,aws,azure&perline=13" />
 </div>
 
 
