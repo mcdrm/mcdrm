@@ -15,7 +15,11 @@
   <p>As an experienced front-end developer, I combine my technical expertise with a keen eye for design to create intuitive and visually striking interfaces that seamlessly blend functionality and aesthetics.</p>
   <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality.</p>
 </div>
-  
+
+<p align="center">
+  <img src="path/to/image.png" alt="My Image" />
+</p>
+
 <h2> Languages and Tools </h2>
 <div align="center">
 <!--  <a href="https://skillicons.dev"> -->
