@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  <img src="path/to/image.png" alt="My Image" />
+  <img src="https://github.com/mcdrm/mcdrm/blob/main/regl_particles_header.jpg" alt="My Image" />
 </p>
 
 <h2> Languages and Tools </h2>
