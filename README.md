@@ -9,11 +9,11 @@
 <div align="left">
   <h2>About Me</h2>
   <p>
-    I am an experienced WebGL and front-end developer building cutting-edge interactive applications and compositors.
-    I specialize in WebGL and have a deep understanding of 3D graphics, rendering pipelines, and performance optimization for immersive user experiences.
+    I am an experienced 🤩 WebGL and front-end developer building cutting-edge interactive applications and compositors.
+    I specialize in WebGL and have a deep understanding of 3D graphics, rendering pipelines, and performance optimization for 👍 immersive user experiences.
   </p>
-  <p>As an experienced front-end developer, I combine my technical expertise with a keen eye for design to create intuitive and visually striking interfaces that seamlessly blend functionality and aesthetics.</p>
-  <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality.</p>
+  <p>As an experienced front-end developer 💪, I combine my technical expertise with a keen eye for design to create intuitive and visually striking interfaces that seamlessly blend functionality and aesthetics.</p>
+  <p>I am passionate about pushing the boundaries of web technologies, solving complex challenges, and turning innovative ideas into reality 😌.</p>
 </div>
 
 <p align="center">
