@@ -29,6 +29,13 @@
 <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,expressjs,nestjs,angular,nuxtjs,tailwind,sass,materialui,threejs,mysql,wordpress,mongodb,firebase,graphql,git,github,vscode,figma,docker,aws,azure&perline=13" />
 </div>
 
+<br />
+<br />
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <h3>Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/murapadev/count.svg" alt="Profile Visitor Count" />
+</div>
+
 
 <!--
 **Jonnykratz/Jonnykratz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
