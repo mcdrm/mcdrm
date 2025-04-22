@@ -8,6 +8,7 @@
 </div>
 <div align="left">
   <h2>About Me</h2>
+  
   <p>
     I am an experienced 🤩 WebGL and front-end developer building cutting-edge interactive applications and compositors.
     I specialize in WebGL and have a deep understanding of 3D graphics, rendering pipelines, and performance optimization for 👍 immersive user experiences.
